@@ -1,0 +1,15 @@
+{
+  "uploadOnSave": true,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "homework.cs.tufts.edu",
+  "target": "/h/vmathu02/comp11",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "vmathu02",
+  "password": "vivekrocks1029",
+  "watch": [],
+  "transport": "scp"
+}

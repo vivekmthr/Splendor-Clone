@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8485125f-970e-4984-ab54-e4cc919a4938" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1acgjUt4ulblkHdIi91zl6yva1a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8485125f-970e-4984-ab54-e4cc919a4938" name="Default Changelist" comment="" />
+      <created>1587040434465</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587040434465</updated>
+      <workItem from="1587040446617" duration="38792000" />
+      <workItem from="1587148163551" duration="8000" />
+      <workItem from="1587190127353" duration="898000" />
+      <workItem from="1587191039988" duration="23000" />
+      <workItem from="1587191101674" duration="19627000" />
+      <workItem from="1587382743600" duration="2744000" />
+      <workItem from="1587389765573" duration="12332000" />
+      <workItem from="1587452693727" duration="4296000" />
+      <workItem from="1587633942930" duration="25443000" />
+      <workItem from="1587662641088" duration="1349000" />
+      <workItem from="1587710430802" duration="23490000" />
+      <workItem from="1587797345584" duration="5955000" />
+      <workItem from="1587808253679" duration="50960000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="285" y="530" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587892401111">
+      <screen x="0" y="0" width="2250" height="1460" />
+    </state>
+    <state x="285" y="530" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2250.1460@0.0.2250.1460" timestamp="1587892401111" />
+    <state x="0" y="0" key="FileDocumentManager.FileCacheConflict" timestamp="1587812023912">
+      <screen x="0" y="0" width="2250" height="1460" />
+    </state>
+    <state x="0" y="0" key="FileDocumentManager.FileCacheConflict/0.0.2250.1460@0.0.2250.1460" timestamp="1587812023912" />
+    <state x="910" y="478" key="com.intellij.ide.util.TipDialog" timestamp="1587808349467">
+      <screen x="0" y="0" width="2250" height="1460" />
+    </state>
+    <state x="910" y="478" key="com.intellij.ide.util.TipDialog/0.0.2250.1460@0.0.2250.1460" timestamp="1587808349467" />
+    <state x="1019" y="0" width="1199" height="1439" key="dock-window-1" timestamp="1587390924906">
+      <screen x="0" y="0" width="2250" height="1460" />
+    </state>
+    <state x="1019" y="0" width="1199" height="1439" key="dock-window-1/0.0.2250.1460@0.0.2250.1460" timestamp="1587390924906" />
+    <state x="223" y="345" width="672" height="678" key="search.everywhere.popup" timestamp="1587921596582">
+      <screen x="0" y="0" width="2250" height="1460" />
+    </state>
+    <state x="223" y="345" width="672" height="678" key="search.everywhere.popup/0.0.2250.1460@0.0.2250.1460" timestamp="1587921596582" />
+    <state x="847" y="645" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1587107562765">
+      <screen x="0" y="0" width="2250" height="1460" />
+    </state>
+    <state x="847" y="645" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.2250.1460@0.0.2250.1460" timestamp="1587107562765" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/card.cpp</url>
+          <line>53</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
